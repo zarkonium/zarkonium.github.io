@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Svetozar Zarko Valtchev - Personal Page"
+title                    : "Svetozar Zarko Valtchev"
 title_separator          : "-"
 name                     : &name "Svetozar Zarko Valtchev"
 description              : &description "PhD in Applied Mathematics at York University, Toronto"
