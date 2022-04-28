@@ -11,4 +11,6 @@ location: "Toronto, Canada"
 ###### This is a first-year course in mathematics for computer systems. Through classroom instruction, you will study the fundamental mathematics required to solve related problems encountered in computer systems. As well, you will be introduced to set theory. You will also be familiarized with various concepts relating to modular systems.
 
 ### Semester
--[Fall 2018](https://e.centennialcollege.ca/d2l/home/373015)
+<ul>
+  <li><a href="https://e.centennialcollege.ca/d2l/home/373015">Fall 2018</a></li>
+</ul>
