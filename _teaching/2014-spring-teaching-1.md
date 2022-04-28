@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 #permalink: https://e.centennialcollege.ca/d2l/home/303786
 link: https://e.centennialcollege.ca/d2l/home/303786
-hyperlinkL: https://e.centennialcollege.ca/d2l/home/303786
+hyperlink: https://e.centennialcollege.ca/d2l/home/303786
 venue: "Centennial College, Math Department"
 date: 2017-09-01
 location: "Toronto, Canada"
