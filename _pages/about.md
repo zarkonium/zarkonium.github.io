@@ -59,14 +59,12 @@ Interests
 
 Education
 ------
-* **PhD**, Applied Mathematics, 2022<br>
-  York University<br>
-  Supervisor: Dr. Jianhong Wu<br>
-  Dissertation: *LOSSY LIGHT FIELD COMPRESSION USING MODERN DEEP LEARNING AND DOMAIN RANDOMIZATION TECHNIQUES*
-* **MA**, Financial Engineering, 2015<br>
-  Schulich School of Business @ York University
-* **MSc**, Applied Mathematics and Physics, 2012<br>
-  York University
+* **PhD**, Applied Mathematics, 2022
+  * York University
+* **MA**, Financial Engineering, 2015
+  * Schulich School of Business @ York University
+* **MSc**, Applied Mathematics and Physics, 2012
+  * York University
 
  
  
