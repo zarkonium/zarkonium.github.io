@@ -59,12 +59,12 @@ INTERESTS
 
 EDUCATION
 ------
-##### PhD, Applied Mathematics, 2022
-###### York University
-##### MA, Financial Engineering, 2015
-###### Schulich School of Business @ York University
-##### MSc, Applied Mathematics and Physics, 2012
-###### York University
+* **PhD**, Applied Mathematics, 2022
+  * York University
+* **MA**, Financial Engineering, 2015
+  * Schulich School of Business @ York University
+* **MSc**, Applied Mathematics and Physics, 2012
+  * York University
 
  
  
