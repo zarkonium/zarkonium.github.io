@@ -1,5 +1,5 @@
 ---
-title: "Statistics for Computer Systems"
+title: "MATH269 - Statistics for Computer Systems"
 collection: teaching
 type: "Undergraduate course"
 permalink: https://e.centennialcollege.ca/d2l/home/303786
