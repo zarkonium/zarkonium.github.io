@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "BIOGRAPHY"
+title: "Biography"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -53,11 +53,11 @@ More info about configuring academicpages can be found in [the guide](https://ac
 
 I am a PhD Candidate in Applied Mathematics at [York University](https://www.yorku.ca/) under the supervison of [Dr. Jianhong Wu](https://www.chairs-chaires.gc.ca/chairholders-titulaires/profile-eng.aspx?profileId=789), and a Data Scientist at [Fitfi](https://www.fitfi.ai/). My research focuses primarily on Machine Learning and Computer Vision. In particular, I study how to effectively utilize synthetic data to train Convolutional-based Neural Network models, with the applications to Light Field Synthsis and Compression.
 
-INTERESTS
+Interests
 ------
 *Computer Vision, Domain Randomization, Domain Transfer, Light Field Rendering, Super-Resolution and Compression*
 
-EDUCATION
+Education
 ------
 * **PhD**, Applied Mathematics, 2022<br>
   York University<br>
