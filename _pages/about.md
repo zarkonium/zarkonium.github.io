@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Svetozar Zarko Valtchev - Academic Page"
+title: "Biography"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -51,8 +51,6 @@ More info about configuring academicpages can be found in [the guide](https://ac
  -->
  
 
-BIOGRAPHY
-------
 about me goes here
 
 INTERESTS
