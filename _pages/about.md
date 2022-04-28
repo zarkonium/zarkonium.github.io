@@ -53,11 +53,11 @@ More info about configuring academicpages can be found in [the guide](https://ac
 
 about me goes here
 
-##INTERESTS
+## INTERESTS
 ------
 interests go here
 
-###EDUCATION
+### EDUCATION
 ------
 phd, msc, bsc
 
