@@ -12,5 +12,6 @@ location: "Toronto, Canada"
 
 ### Semester
 <ul>
+  <li><a href="https://e.centennialcollege.ca/d2l/home/327419">Winter 2018</a></li>
   <li><a href="https://e.centennialcollege.ca/d2l/home/303786">Fall 2017</a></li>
 </ul>
