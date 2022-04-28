@@ -1,8 +1,9 @@
 ---
-title: [PHYS100 - Applied Physics](https://e.centennialcollege.ca/d2l/home/302270)
+title: PHYS100 - Applied Physics
 collection: teaching
 type: "Undergraduate course"
-permalink: "https://e.centennialcollege.ca/d2l/home/302270"
+#permalink: "https://e.centennialcollege.ca/d2l/home/302270"
+hyperlink: https://e.centennialcollege.ca/d2l/home/302270
 venue: "Centennial College, Math Department"
 date: 2017-09-01
 location: "Toronto, Canada"
