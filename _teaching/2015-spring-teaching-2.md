@@ -1,5 +1,5 @@
 ---
-title: "Applied Physics"
+title: "PHYS100 - Applied Physics"
 collection: teaching
 type: "Undergraduate course"
 permalink: "https://e.centennialcollege.ca/d2l/home/302270"
