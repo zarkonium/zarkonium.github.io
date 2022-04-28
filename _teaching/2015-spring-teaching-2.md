@@ -2,7 +2,7 @@
 title: "Applied Physics"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-2
+permalink: "https://e.centennialcollege.ca/d2l/home/302270"
 venue: "Centennial College, Math Department"
 date: 2017-09-01
 location: "Toronto, Canada"
