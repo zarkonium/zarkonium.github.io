@@ -2,7 +2,7 @@
 title: "PHYS100 - Applied Physics"
 collection: teaching
 type: "Undergraduate course"
-permalink: /PHYS100.md
+permalink: /teaching/PHYS100.md
 venue: "Centennial College, Math Department"
 date: 2018-09-01
 location: "Toronto, Canada"
