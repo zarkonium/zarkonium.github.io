@@ -8,7 +8,7 @@ date: 2017-09-01
 location: "Toronto, Canada"
 ---
 
-### The course covers descriptive and inferential statistics and probability. It addresses discrete and continuous types of distributions, including the normal distribution. Statistical software is used in the course to organize, summarize, analyze and present conclusions about sets of data.
+##### The course covers descriptive and inferential statistics and probability. It addresses discrete and continuous types of distributions, including the normal distribution. Statistical software is used in the course to organize, summarize, analyze and present conclusions about sets of data.
 
 Heading 1
 ======
