@@ -55,16 +55,16 @@ I am a PhD Candidate in Applied Mathematics at [York University](https://www.yor
 
 INTERESTS
 ------
-Computer Vision, Domain Randomization, Domain Transfer, Light Field Rendering and Compression
+*Computer Vision, Domain Randomization, Domain Transfer, Light Field Rendering, Super-Resolution and Compression*
 
 EDUCATION
 ------
-* PhD, Applied Mathematics
-  * York University 2016-2022
-* MA, Financial Engineering
-  * Schulich School of Business @ York University 2014-2015
-* MSc, Applied Mathematics and Physics
-  * York University 2008-2012
+##### PhD, Applied Mathematics, 2022
+###### York University
+##### MA, Financial Engineering, 2015
+###### Schulich School of Business @ York University
+##### MSc, Applied Mathematics and Physics, 2012
+###### York University
 
  
  
