@@ -2,7 +2,7 @@
 title: "MATH169 - Mathematics for Computer Systems 2"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/MATH169.md
+permalink: /teaching/MATH169
 venue: "Centennial College, Math Department"
 date: 2018-09-01
 location: "Toronto, Canada"
