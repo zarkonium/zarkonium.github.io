@@ -12,4 +12,5 @@ location: "Toronto, Canada"
 
 
 Semester
-[Fall 2017](https://e.centennialcollege.ca/d2l/home/384550)
+-[Fall 2018](https://e.centennialcollege.ca/d2l/home/384550)
+-[Fall 2017](https://e.centennialcollege.ca/d2l/home/302270)
