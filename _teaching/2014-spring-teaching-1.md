@@ -2,7 +2,7 @@
 title: "Statistics for Computer Systems"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: https://e.centennialcollege.ca/d2l/home/303786
 venue: "Centennial College, Math Department"
 date: 2017-09-01
 location: "Toronto, Canada"
