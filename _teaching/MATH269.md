@@ -11,4 +11,6 @@ location: "Toronto, Canada"
 ###### The course covers descriptive and inferential statistics and probability. It addresses discrete and continuous types of distributions, including the normal distribution. Statistical software is used in the course to organize, summarize, analyze and present conclusions about sets of data.
 
 ### Semester
--[Fall 2017](https://e.centennialcollege.ca/d2l/home/303786)
+<ul>
+  <li><a href="https://e.centennialcollege.ca/d2l/home/303786">Fall 2017</a></li>
+</ul>
