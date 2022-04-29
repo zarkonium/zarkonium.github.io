@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Sneaker SKU Number Scanner"
+excerpt: "A realtime label scanner module utilizing text recognition to identify product SKUs<br/><img src='/images/screen5_480x853.png'>"
 collection: portfolio
 ---
 
