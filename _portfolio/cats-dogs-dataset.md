@@ -12,7 +12,7 @@ The dataset is the focus of the paper [Domain Randomization for Neural Network C
 @article{valtchev2021DR,
   title={Domain randomization for neural network classification},
   author={Valtchev, Svetozar Zarko and Wu, Jianhong},
-  journal={Journal of big Data},
+  journal={Journal of Big Data},
   volume={8},
   number={1},
   pages={1--12},
