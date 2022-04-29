@@ -10,7 +10,7 @@ citation: 'Asgary, A., Valtchev, S.Z., Chen, M., Najafabadi, M. and Wu, J. (2020
 ---
 Planning for mass vaccination against SARS-Cov-2 is ongoing in many countries considering that vaccine will be available for the general public in the near future. Rapid mass vaccination while a pandemic is ongoing requires the use of traditional and new temporary vaccination clinics. Use of drive-through has been suggested as one of the possible effective temporary mass vaccinations among other methods. In this study, we present a machine learning model that has been developed based on a big dataset derived from 125K runs of a drive-through mass vaccination simulation tool. The results show that the model is able to reasonably well predict the key outputs of the simulation tool. Therefore, the model has been turned to an online application that can help mass vaccination planners to assess the outcomes of different types of drive-through mass vaccination facilities much faster.
 
-#### Bibtex
+### Bibtex
 ```
 @Article{ijerph18010268,
   AUTHOR = {Asgary, Ali and Valtchev, Svetozar Zarko and Chen, Michael and Najafabadi, Mahdi M. and Wu, Jianhong},
