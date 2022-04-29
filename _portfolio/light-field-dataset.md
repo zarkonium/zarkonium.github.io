@@ -1,6 +1,6 @@
 ---
 title: "Synthetic Light Field Dataset"
-excerpt: "A synthetic dataset of 20,000 light fields with generated using Domain Randomization.<br/><img src='/images/liam-lf-dataset.png'>"
+excerpt: "A synthetic dataset of 20,000 light fields with generated using Domain Randomization.<br/><img src='/images/liam_lf_dataset.png'>"
 collection: portfolio
 ---
 
