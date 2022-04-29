@@ -4,4 +4,4 @@ excerpt: "A convolutional based model capable of identifing common dental proble
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+The Oral Dental Exam is part of the [Connect2D Dentistry](https://connect2dteledentistry.com/) Suite of services, capable of detecting a host of dental diseases such as gingivitis, gum recession and calculus from a selfie, in order to assist clients to self diagnose any hygenic issues. The results of the model aid dental offices in booking appropriate appointments and suggest home remedies. 
