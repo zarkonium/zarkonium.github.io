@@ -4,4 +4,4 @@ excerpt: "A workout repetitions counter and exercises classifier based on pose e
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Utilizing pose estimation models, we successfully built a realtime exercise rep counter, light enough to be run on a mobile device. We are able to identify dozens of different exercises, and provide visual indicators if any bad form is detected. The project is part of the [FITFI](https://www.fitfi.ai/) fitness platform, available FREE on the [App Store](https://apps.apple.com/us/app/id1479768845).
