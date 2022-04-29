@@ -24,7 +24,7 @@ Education
 Work experience
 ======
 * **2019 - Now**: Data Scientist
-  * Fitfi Inc.
+  * FITFI Inc.
 
 * **2017 - 2020**: College Lecturer
   * Centennial College
