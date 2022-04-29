@@ -4,4 +4,4 @@ excerpt: "A realtime label scanner module utilizing text recognition to identify
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Using text recognition, we are able to efficiently parse common Nike and Adidas labels on sneaker boxes, and extracts useful information related to the identification of the products. The module is part of the [Payout] App available on the [App Store](apps.apple.com/us/app/id1529813058).
