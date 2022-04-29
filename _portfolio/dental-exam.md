@@ -1,6 +1,6 @@
 ---
 title: "Automated Oral Dental Exam"
-excerpt: "A convolutional based model capable of identifing common problems from an image.<br/><img src='/images/dental_exam.png'>"
+excerpt: "A convolutional based model capable of identifing common dental problems from an image.<br/><img src='/images/dental_exam.png'>"
 collection: portfolio
 ---
 
