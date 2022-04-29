@@ -6,6 +6,6 @@ excerpt: 'Similarity measures are largely needed for a variety of tasks such as 
 date: 2019-12-01
 venue: 'Manuscript'
 paperurl: 'http://zarkonium.github.io/files/A_Similarity_Measure_for_Multi_Dimensional_Signals.pdf'
-citation: 'Valtchev, SZ. and Wu, J. (2019). &quot;A Correlation Measure for Multi-Dimensional Signals&quot;, <i>Manuscript</i>.'
+citation: 'Valtchev, S.Z. and Wu, J. (2019). &quot;A Correlation Measure for Multi-Dimensional Signals&quot;, <i>Manuscript</i>.'
 ---
 Similarity measures are largely needed for a variety of tasks such as anomaly detection, classification and forecasting. In this paper we explore the shortcomings of current multi-dimensional correlations measures, namely the RV coefficient and the normalized RV coefficient. When a particular dimension is positively correlated between 2 samples, while another is negatively correlated, these methods can provide undesired results. We propose a new measure, the DwC (Deviation-weighted Correlation) coefficient, which overcomes these limitations. Our measure correctly incorporates positive and negative correlation on a dimension-by-dimension basis, ultimately providing a more intuitive and useful measure that generalizes to higher dimensions for the comparison of arbitrary matrices. The measure also holds some scaling properties which become useful in the presence of noise. Lastly we provide an example using accelerometer data, to classify common human activities based on maximum DwC between predefined templates and the data.
