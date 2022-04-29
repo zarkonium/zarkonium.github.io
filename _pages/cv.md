@@ -23,19 +23,19 @@ Education
 
 Work experience
 ======
-* 2019 - Now: Data Scientist
+* **2019 - Now**: Data Scientist
   * Fitfi Inc.
 
-* 2017 - 2020: College Lecturer
+* **2017 - 2020**: College Lecturer
   * Centennial College
 
-* 2016 - 2017: Quantitative Analyst
+* **2016 - 2017**: Quantitative Analyst
   * Alpha Ledger
 
-* Winter 2015: Research Assistant
+* **Winter 2015**: Research Assistant
   * DBRS
 
-* 2013 - 2021: Graduate Teaching Assistant
+* **2013 - 2021**: Graduate Teaching Assistant
   * York University
   
 <!-- Skills
