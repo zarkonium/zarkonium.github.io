@@ -17,6 +17,7 @@ The dataset is the focus of the paper [Domain Randomization for Neural Network C
   number={1},
   pages={1--12},
   year={2021},
-  publisher={Springer}
+  publisher={Springer},
+  doi={https://doi.org/10.1186/s40537-021-00455-5},
 }
 ```
