@@ -4,4 +4,4 @@ excerpt: "A synthetic dataset of 20,000 light fields with generated using Domain
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Using Domain Randomization, we generate the LIAM-LF-Dataset, made up of 20,000 light fields with 9x9 angular and 512x512 spatial resolution respectively. The light fields also include a depth map and a segmentation map as observed from the central subaperature image. Data is available on request for research purposes.
