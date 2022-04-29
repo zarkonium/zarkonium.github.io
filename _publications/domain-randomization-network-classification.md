@@ -12,10 +12,10 @@ citation: 'Valtchev, S.Z. and Wu, J. (2021). &quot;Domain Randomization for Neur
 
 ### Bibtex
 ```
-@article{valtchev2021domain,
+@article{valtchev2021DR,
   title={Domain randomization for neural network classification},
   author={Valtchev, Svetozar Zarko and Wu, Jianhong},
-  journal={Journal of big Data},
+  journal={Journal of Big Data},
   volume={8},
   number={1},
   pages={1--12},
