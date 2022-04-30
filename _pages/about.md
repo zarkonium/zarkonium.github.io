@@ -51,7 +51,7 @@ More info about configuring academicpages can be found in [the guide](https://ac
  -->
  
 
-I am a PhD Candidate in Applied Mathematics at [York University](https://www.yorku.ca/) under the supervision of [Dr. Jianhong Wu](https://www.chairs-chaires.gc.ca/chairholders-titulaires/profile-eng.aspx?profileId=789), and a Data Scientist at [FITFI](https://www.fitfi.ai/). My research focuses primarily on Machine Learning and Computer Vision. In particular, I study how to effectively utilize synthetic data to train Convolutional-based Neural Network models, with applications to Light Field Synthesis and Compression.
+I am a PhD Candidate in Applied Mathematics at [York University](https://www.yorku.ca/) under the supervision of [Dr. Jianhong Wu](https://www.chairs-chaires.gc.ca/chairholders-titulaires/profile-eng.aspx?profileId=789), a member of the [Laboratory for Industrial and Applied Mathematics](https://liam.lab.yorku.ca/) and a Data Scientist at [FITFI](https://www.fitfi.ai/). My research focuses primarily on Machine Learning and Computer Vision. In particular, I study how to effectively utilize synthetic data to train Convolutional-based Neural Network models, with applications to Light Field Synthesis and Compression. I have also worked on numerous COVID-19 projects related to optimal vaccination logistics, contact rate prediction and transmission modelling in collaboration with the [ADERSIM](https://adersim.info.yorku.ca/) team at York University.
 
 Interests
 ------
