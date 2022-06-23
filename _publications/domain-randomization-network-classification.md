@@ -25,5 +25,3 @@ citation: 'Valtchev, S.Z. and Wu, J. (2021). &quot;Domain Randomization for Neur
   doi={https://doi.org/10.1186/s40537-021-00455-5},
 }
 ```
-
-<a href='https://zarkonium.github.io/domain-randomization-classification/'>[Project Page]</a>
