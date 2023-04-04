@@ -13,7 +13,7 @@ citation: 'Valtchev, S.Z. and Wu, J. (2022). &quot;Lossy Light Field Compression
 
 ### Bibtex
 ```
-@ phdthesis{valtchev2022LFCompression,
+@phdthesis{valtchev2022LFCompression,
   title={Lossy Light Field Compression Using Modern Deep Learning and Domain Randomization Techniques},
   author={Valtchev, Svetozar Zarko},
   publisher={YorkSpace Institutional Repository},
